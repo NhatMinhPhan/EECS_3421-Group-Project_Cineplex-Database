@@ -10,4 +10,4 @@ Any subsequent re-deployment of the database will require the following order of
 3. M-T9-Cineplex-ResetData.sql
 4. M-T9-Cineplex-InsertData.sql
 
-Finally, use M-T9-Cineplex-SampleQueries.sql to retrieve useful information from the database
+Finally, use M-T9-Cineplex-SampleQueries.sql to retrieve useful information from the database.
