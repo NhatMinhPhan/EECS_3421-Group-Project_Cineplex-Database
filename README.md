@@ -36,7 +36,7 @@ Finally, use _M-T9-Cineplex-SampleQueries.sql_ to retrieve useful information fr
 - Prepared a rough draft of the project final report
 - Assisted in editing and finalizing the current iteration of the report
 
-3. [Andrew](https://github.com/manseband)
+3. [Andrew](https://github.com/manseband):
 
 - Project Proposal
 - ER Data Model
@@ -47,7 +47,7 @@ Finally, use _M-T9-Cineplex-SampleQueries.sql_ to retrieve useful information fr
 - Editing of final report
 - Packaging of relevant files
 
-4. [tfishhy](https://github.com/tfishhy)
+4. [tfishhy](https://github.com/tfishhy):
 
 - Project Proposal
 - ER Data Model
@@ -57,7 +57,7 @@ Finally, use _M-T9-Cineplex-SampleQueries.sql_ to retrieve useful information fr
 - SQL Data Entry
 - Contributed to the final report
 
-5. [Jay](https://github.com/tisjayy)
+5. [Jay](https://github.com/tisjayy):
 
 - Project Proposal
 - Functional Requirements
